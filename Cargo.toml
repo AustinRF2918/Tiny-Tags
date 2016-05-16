@@ -1,0 +1,6 @@
+[package]
+name = "fsa"
+version = "0.1.0"
+authors = ["Austin Fell <austinrf2918@yahoo.com>"]
+
+[dependencies]
